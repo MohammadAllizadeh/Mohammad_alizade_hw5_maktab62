@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+}
+.main {
+  background-color: rgb(41, 127, 184);
+  width: 145vh;
+  height: 60vh;
+  margin: 20px 30px;
+  border: 1px solid rgb(41, 127, 184);
+}
+.container {
+  display: block;
+  width: 40vh;
+  height: 30vh;
+  background-color: rgb(250, 248, 248);
+  border-radius: 5px;
+  margin: 5px 40%;
+}
+.lable {
+  display: block;
+  color: rgb(131, 132, 132);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 40%;
+  font-size: x-large;
+}
+.input-Email {
+  display: block;
+  width: 35vh;
+  height: 5vh;
+  background-color: rgb(236, 240, 241);
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  margin: 2px 10px 7px;
+}
+.input-password {
+  display: block;
+  width: 35vh;
+  height: 5vh;
+  background-color: rgb(236, 240, 241);
+  text-align: center;
+  border-radius: 5px;
+  margin: 7px 10px;
+}
+.Login {
+  display: block;
+  width: 35vh;
+  background-color: rgb(53, 152, 219);
+  color: white;
+  border-radius: 5px;
+  height: 6vh;
+  padding: 10px 40%;
+  margin: 20px 10px;
+}

@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+}
+.main {
+  width: 350vh;
+  height: 250vh;
+  margin: 30px 30px 50px 30px;
+}
+.float-left {
+  display: inline-block;
+  width: 100%;
+  height: 20vh;
+}
+.float-left-first {
+  display: inline-block;
+  width: 30vh;
+  height: 20vh;
+  background-color: rgb(105, 105, 105);
+  color: white;
+  font-size: small;
+  text-align: center;
+  margin-left: 3px;
+}
+.float-left-secound {
+  display: inline-block;
+  width: 30vh;
+  height: 20vh;
+  background-color: rgb(105, 105, 105);
+  color: white;
+  font-size: small;
+  text-align: center;
+  margin-left: 3px;
+}
+.float-left-thrid {
+  display: inline-block;
+  width: 30vh;
+  height: 20vh;
+  background-color: rgb(105, 105, 105);
+  color: white;
+  font-size: small;
+  text-align: center;
+  margin-left: 3px;
+}
+
+
+
+.clear {
+  display: inline-block;
+  width: 100%;
+  height: 20vh;
+  margin-top: 5px;
+}
+.clear-left {
+  display: inline-block;
+  width: 30vh;
+  height: 20vh;
+  background-color: rgb(105, 105, 105);
+  color: white;
+  font-size: small;
+  text-align: center;
+  margin-left: 3px;
+}
+
+
+
+
+
+
+
+
+
+.display {
+  display: inline-block;
+  width: 100%;
+  height: 20vh;
+  margin-top: 12px;
+}
+.inline-block-first {
+  display: inline-block;
+  width: 30vh;
+  height: 20vh;
+  background-color: rgb(105, 105, 105);
+  color: white;
+  font-size: small;
+  text-align: center;
+  margin-left: 6px;
+}
+.inline-block-secound{
+  display: inline-block;
+  width: 30vh;
+  height: 20vh;
+  background-color: rgb(105, 105, 105);
+  color: white;
+  font-size: small;
+  text-align: center;
+  margin-left: 6px;
+}
+.inline-block-thrid{
+  display: inline-block;
+  width: 30vh;
+  height: 20vh;
+  background-color: rgb(105, 105, 105);
+  color: white;
+  font-size: small;
+  text-align: center;
+  margin-left: 6px;
+}
+.inline-block-fourth {
+  display: inline-block;
+  width: 30vh;
+  height: 20vh;
+  background-color: rgb(105, 105, 105);
+  color: white;
+  font-size: small;
+  text-align: center;
+  margin-left: 6px;
+}

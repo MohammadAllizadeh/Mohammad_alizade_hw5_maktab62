@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+  }
+  .hr{
+      width: 100%;
+      border: 1px solid black;
+      margin-top: 10px;
+  }
+  .main {
+    width: 350vh;
+    height: 250vh;
+    margin: 30px 30px 50px 30px;
+  }
+  .header {
+    display: inline-block;
+    width: 350vh;
+    height: 7vh;
+    background-color: black;
+  }
+  .Home {
+    display: inline-block;
+    width: 10vh;
+    height: 7vh;
+    background-color: rgb(10, 10, 10);
+    color: white;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-left: 3px;
+    vertical-align: middle;
+  }
+
+  .News {
+    display: inline-block;
+    width: 10vh;
+    height: 7vh;
+    background-color: rgb(10, 10, 10);
+    color: white;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-left: 3px;
+    vertical-align: middle;
+  }
+  .About {
+    display: inline-block;
+    width: 10vh;
+    height: 7vh;
+    background-color: rgb(10, 10, 10);
+    color: white;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-left: 3px;
+    vertical-align: middle;
+  }
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .middle {
+      display: inline-block;
+    width: 100%;
+    margin-top: 12px;
+}
+
+.One-Button {
+    display: inline-block;
+    width: 30vh;
+    color: white;
+    font-size: small;
+    text-align: center;
+    margin-left: 6px;
+}
+.One {
+    display: inline-block;
+    width: 30vh;
+    height: 6vh;
+    background-color: rgb(62, 136, 221);
+    color: white;
+    font-size: small;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 10px;
+    margin:7px 6px;
+}
+.lorem {
+    display: inline-block;
+    width: 70vh;
+    height: 20vh;
+    color: rgb(10, 7, 7);
+    font-size: small;
+    text-align: center;
+    margin-left: 6px;
+    position: relative;
+    top: 15px;
+    left: 0;
+}
+.right {
+    display: inline-block;
+    width: 30vh;
+ 
+    color: white;
+    font-size: small;
+    text-align: center;
+    margin-left: 6px;
+}
+.right-button {
+    display: inline-block;
+    width: 40vh;
+    height: 10vh;
+    background-color: rgb(138, 43, 225);
+    color: white;
+    font-size: small;
+    text-align: center;
+    margin: 20px 6px 0 0 ;
+}
+
+
+
+
+.footer {
+  width: 100%;
+  height: 5vh;
+  background-color: yellow;
+  margin-top: 5px;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  vertical-align: middle;
+}
